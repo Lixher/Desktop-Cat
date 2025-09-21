@@ -46,7 +46,7 @@
 
 ## Скачать (Download)
 
-Готовые сборки **Femida: The Desktop Cat** можно скачать с нашей [страницы релизов (Releases)](https://github.com/Lixher/Desktop-Cat/releases).
+Готовые сборки **The Desktop Cat** можно скачать с нашей [страницы релизов (Releases)](https://github.com/Lixher/Desktop-Cat/releases).
 
 ## Документация (Documentation)
 
