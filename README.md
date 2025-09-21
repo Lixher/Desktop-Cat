@@ -6,7 +6,16 @@
 
 **The Desktop Cat** — это бесплатный питомец для рабочего стола с открытым исходным кодом, созданный на движке Unity. Ваш маленький пиксельный друг будет жить прямо на вашем экране, требуя заботы, еды и внимания.
 
-Проект был разработан как аналог Screen Cat для Windows, macOS и Linux и ставит своей целью создание простого и милого виртуального компаньона для вашего рабочего стола.
+Проект был разработан как аналог Screen Cat для Windows и ставит своей целью создание простого и милого виртуального компаньона для вашего рабочего стола.
+
+## Скриншоты (Screenshots)
+<img width="297" height="330" alt="image" src="https://github.com/user-attachments/assets/bddf6ac1-b7cb-4ac6-817e-10a18383c4f7" />
+<img width="251" height="227" alt="image" src="https://github.com/user-attachments/assets/6b8a222d-0687-4df8-ada4-3ce11e02084a" />
+<img width="291" height="224" alt="image" src="https://github.com/user-attachments/assets/f0c8b40d-d1ec-4664-abe5-13802c8dad9a" />
+<img width="344" height="320" alt="image" src="https://github.com/user-attachments/assets/b9ed8c17-2174-4ffd-9b26-b8dad96491b3" />
+<img width="531" height="319" alt="image" src="https://github.com/user-attachments/assets/f9f1e9f6-91b1-40ab-bd99-216aa92d70e7" />
+
+
 
 ## Особенности (Features)
 
@@ -43,7 +52,14 @@
 
 **The Desktop Cat** is a free and open-source desktop pet created with the Unity engine. Your little pixelated friend will live right on your screen, requiring your care, food, and attention.
 
-This project was developed as an alternative to Screen Cat for Windows, macOS, and Linux, with the goal of creating a simple and cute virtual companion for your desktop.
+This project was developed as an alternative to Screen Cat for Windows with the goal of creating a simple and cute virtual companion for your desktop.
+
+## Screenshots
+<img width="297" height="330" alt="image" src="https://github.com/user-attachments/assets/bddf6ac1-b7cb-4ac6-817e-10a18383c4f7" />
+<img width="251" height="227" alt="image" src="https://github.com/user-attachments/assets/6b8a222d-0687-4df8-ada4-3ce11e02084a" />
+<img width="291" height="224" alt="image" src="https://github.com/user-attachments/assets/f0c8b40d-d1ec-4664-abe5-13802c8dad9a" />
+<img width="344" height="320" alt="image" src="https://github.com/user-attachments/assets/b9ed8c17-2174-4ffd-9b26-b8dad96491b3" />
+<img width="531" height="319" alt="image" src="https://github.com/user-attachments/assets/f9f1e9f6-91b1-40ab-bd99-216aa92d70e7" />
 
 ## Features
 
