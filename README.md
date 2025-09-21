@@ -33,3 +33,40 @@
 ## Лицензия (License)
 
 Проект **The Desktop Cat** распространяется под лицензией [MIT]. Для получения дополнительной информации см. файл [LICENSE](LICENSE).
+
+
+# The Desktop Cat
+
+[![pipeline](https://img.shields.io/badge/pipeline-passed-green.svg)](#) [![Latest Release](https://img.shields.io/badge/Latest%20Release-v1.0-blue.svg)](#)
+
+## About
+
+**The Desktop Cat** is a free and open-source desktop pet created with the Unity engine. Your little pixelated friend will live right on your screen, requiring your care, food, and attention.
+
+This project was developed as an alternative to Screen Cat for Windows, macOS, and Linux, with the goal of creating a simple and cute virtual companion for your desktop.
+
+## Features
+
+*   **Completely free and open-source.**
+*   **Interactive Companion:** Feed your cat, play with it, and monitor its hunger and happiness levels.
+*   **Customization:**
+    *   **Pet Settings:** Give your cat a unique name and configure its behavior.
+    *   **Widget Personalization:** Change the widget's background color through the right-click menu (RMB).
+*   **Always on Top:** The application runs on top of all other windows, so your pet will always be with you.
+*   **Simple Controls:** An intuitive interface for interacting with your pet.
+
+## Download
+
+Ready-to-use builds of **The Desktop Cat** can be downloaded from our [Releases page](https://github.com/Lixher/Desktop-Cat/releases).
+
+## Documentation
+
+⚠️ **Note!** This project is under active development. Instructions and features are subject to change.
+
+Currently, to run the game, simply download the archive for your operating system from the releases page, extract it, and run the executable file.
+
+The documentation will be expanded in the future to include instructions on building the project from the source code and contributing to its development.
+
+## License
+
+**The Desktop Cat** is distributed under the [MIT License]. For more information, please see the [LICENSE](LICENSE) file.
