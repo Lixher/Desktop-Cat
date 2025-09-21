@@ -1,6 +1,6 @@
 # The Desktop Cat
 
-[![pipeline](https://img-shields-io.proxy.goog/badge/pipeline-passed-green.svg)](#) [![Latest Release](https://img-shields-io.proxy.goog/badge/Latest%20Release-v1.0-blue.svg)](#)
+[![pipeline](https://img.shields.io/badge/pipeline-passed-green.svg)](#) [![Latest Release](https://img.shields.io/badge/Latest%20Release-v1.0-blue.svg)](#)
 
 ## О проекте (About)
 
