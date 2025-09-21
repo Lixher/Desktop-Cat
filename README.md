@@ -1,6 +1,6 @@
 # The Desktop Cat
 
-[![pipeline](https://img.shields.io/badge/pipeline-passed-green.svg)](#) [![Latest Release](https://img.shields.io/badge/Latest%20Release-v1.0-blue.svg)](#)
+[![pipeline](https://img.shields.io/badge/pipeline-passed-green.svg)](https://github.com/Lixher/Desktop-Cat/actions) [![Latest Release](https://img.shields.io/github/v/release/Lixher/Desktop-Cat)](https://github.com/Lixher/Desktop-Cat/releases)
 
 ## О проекте (About)
 
@@ -37,7 +37,7 @@
 
 # The Desktop Cat
 
-[![pipeline](https://img.shields.io/badge/pipeline-passed-green.svg)](#) [![Latest Release](https://img.shields.io/badge/Latest%20Release-v1.0-blue.svg)](#)
+[![pipeline](https://img.shields.io/badge/pipeline-passed-green.svg)](https://github.com/Lixher/Desktop-Cat/actions) [![Latest Release](https://img.shields.io/github/v/release/Lixher/Desktop-Cat)](https://github.com/Lixher/Desktop-Cat/releases)
 
 ## About
 
