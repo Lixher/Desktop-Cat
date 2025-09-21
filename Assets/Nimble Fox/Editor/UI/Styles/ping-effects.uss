@@ -1,0 +1,27 @@
+.ping-ticket-highlight {
+    transition: border-color 0.5s ease-out;
+    border-color: rgba(255, 255, 130, 0.6);
+}
+
+.ping-ticket-default {
+    transition: border-color 1.2s ease-in-out;
+    border-color: rgba(1, 1, 0, 0);
+}
+
+.transparent-hover-override:hover {
+    background-color: rgb(35, 35, 35);
+    background-color: rgba(42, 42, 42, 0);
+}
+
+.ping-item-highlight {
+    transition: background-color 0.5s ease-out, border-color 0.5s ease-out;
+    border-color: rgba(255, 255, 130, 0.6);
+}
+
+.ping-item-default {
+    transition: background-color 1.2s ease-in-out, border-color 1.2s ease-in-out;
+    border-color: rgba(1, 1, 0, 0);
+}
+
+.link {
+}

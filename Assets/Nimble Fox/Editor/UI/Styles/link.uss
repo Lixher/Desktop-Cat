@@ -1,0 +1,19 @@
+.link {
+    color: rgb(255, 255, 255);
+}
+
+.link:enabled {
+    cursor: link;
+}
+
+.link:disabled {
+    cursor: arrow;
+}
+
+.link:hover {
+    color: rgb(139, 223, 247);
+}
+
+.link:active {
+    color: rgb(30, 144, 255);
+}

@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: 2fed6e5fdce42444abad4b143f32adcc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5009456497981432001
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_0
+  - first:
+      213: 5077688557691085019
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_1
+  - first:
+      213: -4704650188518975712
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_2
+  - first:
+      213: -1696358113119472598
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_3
+  - first:
+      213: 3911094613480652144
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_4
+  - first:
+      213: -4980582777122803992
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_5
+  - first:
+      213: 3598199335057939400
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_6
+  - first:
+      213: -6981755835920144089
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_7
+  - first:
+      213: -6126702877153563319
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_8
+  - first:
+      213: -8365878518280899433
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_9
+  - first:
+      213: -2251722540266400386
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_10
+  - first:
+      213: -2203415073211009773
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_11
+  - first:
+      213: -8940836320850325432
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_12
+  - first:
+      213: 1108508533205303635
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_13
+  - first:
+      213: 4005563198014264169
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_14
+  - first:
+      213: 6526812041812322547
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_15
+  - first:
+      213: -8678918546817823084
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_16
+  - first:
+      213: -376538157159358962
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_17
+  - first:
+      213: 6980826737845503634
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_18
+  - first:
+      213: -2407612928602561291
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_19
+  - first:
+      213: -4263073547639200389
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_20
+  - first:
+      213: 7054389060057169685
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_21
+  - first:
+      213: -1775706707845721573
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_22
+  - first:
+      213: 8662718595965341111
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_23
+  - first:
+      213: 359310962409381923
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_24
+  - first:
+      213: 8701260611062145700
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_25
+  - first:
+      213: -1907946764590568358
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_26
+  - first:
+      213: -3491447410751205134
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_27
+  - first:
+      213: 7205495301778599577
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_28
+  - first:
+      213: -3622951482044587789
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_29
+  - first:
+      213: -8014920204216121729
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_30
+  - first:
+      213: 2750686687429715862
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_31
+  - first:
+      213: 6000030824794414904
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_32
+  - first:
+      213: -7838323396426869593
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_33
+  - first:
+      213: -7975527200706789052
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_34
+  - first:
+      213: -5376601812497708752
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_35
+  - first:
+      213: 5538944722476355221
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_36
+  - first:
+      213: -6118509958807179950
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_37
+  - first:
+      213: 6875535537873405656
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_38
+  - first:
+      213: -8911707294610925305
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_39
+  - first:
+      213: 6851364149846281623
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_40
+  - first:
+      213: 6536350485843599021
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_41
+  - first:
+      213: -2017879784696606526
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_42
+  - first:
+      213: -571521589047049173
+    second: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1259
+        width: 116
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f5b083bd5da7ab0800000000000000
+      internalID: -5009456497981432001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 308
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd02e3927d2977640800000000000000
+      internalID: 5077688557691085019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_2
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1351
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0271ad07499b5beb0800000000000000
+      internalID: -4704650188518975712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1353
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2479a7a8435578e0800000000000000
+      internalID: -1696358113119472598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1351
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d357f34dff64630800000000000000
+      internalID: 3911094613480652144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_5
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1353
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eeaa2b3a5a61eab0800000000000000
+      internalID: -4980582777122803992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1352
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbdc2d2b3f5fe130800000000000000
+      internalID: 3598199335057939400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_7
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1207
+        width: 414
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7292873ee02db1f90800000000000000
+      internalID: -6981755835920144089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_8
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1353
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94de5e2a13499faa0800000000000000
+      internalID: -6126702877153563319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_9
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 799
+        width: 309
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794bbcbdfcd66eb80800000000000000
+      internalID: -8365878518280899433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_10
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1353
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e755eae974640c0e0800000000000000
+      internalID: -2251722540266400386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_11
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1353
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31534844aa5eb61e0800000000000000
+      internalID: -2203415073211009773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_12
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1353
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8405ecc9cb4cbe380800000000000000
+      internalID: -8940836320850325432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_13
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1353
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351013843a6326f00800000000000000
+      internalID: 1108508533205303635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_14
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1353
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9639407918e969730800000000000000
+      internalID: 4005563198014264169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_15
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1353
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f827f3b8f4e39a50800000000000000
+      internalID: 6526812041812322547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 1201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ecf5680994e8780800000000000000
+      internalID: -8678918546817823084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_17
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 416
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ed2228a8446caf0800000000000000
+      internalID: -376538157159358962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 415
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29684db9ee0e0e060800000000000000
+      internalID: 6980826737845503634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_19
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 415
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4a10a2cc0769ed0800000000000000
+      internalID: -2407612928602561291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_20
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 415
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75e995f13586d4c0800000000000000
+      internalID: -4263073547639200389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_21
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 107
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ffb10797936e160800000000000000
+      internalID: 7054389060057169685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_22
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 107
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12d395482c6b57e0800000000000000
+      internalID: -1775706707845721573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_23
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 107
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd4fad7aa8283870800000000000000
+      internalID: 8662718595965341111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_24
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 107
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320a056aa678cf400800000000000000
+      internalID: 359310962409381923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_25
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 107
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2257cac6611c870800000000000000
+      internalID: 8701260611062145700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_26
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 107
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c293eb68c9585e0800000000000000
+      internalID: -1907946764590568358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_27
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 107
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f097321413eb8fc0800000000000000
+      internalID: -3491447410751205134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_28
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 107
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e6245fccf0ff360800000000000000
+      internalID: 7205495301778599577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_29
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 107
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0e14282d0b8bdc0800000000000000
+      internalID: -3622951482044587789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_30
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 107
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76c8940a8845c090800000000000000
+      internalID: -8014920204216121729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_31
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 107
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697e4ace7f66c2620800000000000000
+      internalID: 2750686687429715862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_32
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 107
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fd341ee34644350800000000000000
+      internalID: 6000030824794414904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_33
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 107
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4d751766ea83390800000000000000
+      internalID: -7838323396426869593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_34
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 107
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4410861644c315190800000000000000
+      internalID: -7975527200706789052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_35
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 82
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0394a5353297265b0800000000000000
+      internalID: -5376601812497708752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_36
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 80
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e4ab5e0e84edc40800000000000000
+      internalID: 5538944722476355221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_37
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 80
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dab961c9fa61ba0800000000000000
+      internalID: -6118509958807179950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_38
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 79
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6c48fb42fca6f50800000000000000
+      internalID: 6875535537873405656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_39
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 80
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709557a8e61435480800000000000000
+      internalID: -8911707294610925305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_40
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d0f6ae46fe41f50800000000000000
+      internalID: 6851364149846281623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_41
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 79
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daed824c228c5ba50800000000000000
+      internalID: 6536350485843599021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_42
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c097b9e60d0ff3e0800000000000000
+      internalID: -2017879784696606526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_43
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 82
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24426f842c8118f0800000000000000
+      internalID: -571521589047049173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_0: -5009456497981432001
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_1: 5077688557691085019
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_10: -2251722540266400386
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_11: -2203415073211009773
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_12: -8940836320850325432
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_13: 1108508533205303635
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_14: 4005563198014264169
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_15: 6526812041812322547
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_16: -8678918546817823084
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_17: -376538157159358962
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_18: 6980826737845503634
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_19: -2407612928602561291
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_2: -4704650188518975712
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_20: -4263073547639200389
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_21: 7054389060057169685
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_22: -1775706707845721573
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_23: 8662718595965341111
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_24: 359310962409381923
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_25: 8701260611062145700
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_26: -1907946764590568358
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_27: -3491447410751205134
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_28: 7205495301778599577
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_29: -3622951482044587789
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_3: -1696358113119472598
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_30: -8014920204216121729
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_31: 2750686687429715862
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_32: 6000030824794414904
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_33: -7838323396426869593
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_34: -7975527200706789052
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_35: -5376601812497708752
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_36: 5538944722476355221
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_37: -6118509958807179950
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_38: 6875535537873405656
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_39: -8911707294610925305
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_4: 3911094613480652144
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_40: 6851364149846281623
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_41: 6536350485843599021
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_42: -2017879784696606526
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_43: -571521589047049173
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_5: -4980582777122803992
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_6: 3598199335057939400
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_7: -6981755835920144089
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_8: -6126702877153563319
+      20250712_0057_Brown Beige Button_simple_compose_01jzxmdz8henwbyknbfq1zqvn4_9: -8365878518280899433
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

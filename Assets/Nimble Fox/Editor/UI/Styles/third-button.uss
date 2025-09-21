@@ -1,0 +1,14 @@
+.third-button {
+    background-color: rgb(40, 40, 40);
+}
+
+.third-button:hover {
+    background-color: rgb(48, 48, 48);
+    color: rgb(27, 27, 27);
+}
+
+.ping-effects {
+}
+
+.link {
+}

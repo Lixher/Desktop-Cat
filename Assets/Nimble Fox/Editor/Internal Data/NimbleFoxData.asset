@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2052872961, guid: 3d9ccbe8a1308ca4a8c929d3ae94b559, type: 3}
+  m_Name: NimbleFoxData
+  m_EditorClassIdentifier: 
+  Du: 
+  DV:
+    FloatingTasks: []
+    LoadingActions: []
+    ClientID: 
+    PublicAPIKey: 
+    APIKey: 
+    Tickets: []
+    SubscriptionData:
+      Email: 
+      Subscription: 
+      TokensLeft: -1
+      MaxTokens: -1
+    Settings:
+      ProjectDescription: 2D Pixel-Art Platformer
+      AllowScriptAccess: 0
+      GenerateSprites: 1
+      SpritePerspective: 0
+      SettingsHaveBeenViewed: 0
+  Dv: []
+  references:
+    version: 2
+    RefIds: []
