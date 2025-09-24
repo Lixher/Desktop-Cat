@@ -4,8 +4,7 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - ship
-  - Bad
+  - Configurable
   layers:
   - Default
   - TransparentFX
