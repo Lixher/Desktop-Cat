@@ -8,6 +8,8 @@
 
 Проект был разработан как аналог Screen Cat для Windows и ставит своей целью создание простого и милого виртуального компаньона для вашего рабочего стола.
 
+Следить за разработкой/обновлениями: [Telegram](https://t.me/desktopcat)
+
 ## Скриншоты (Screenshots)
 <table>
   <tr>
@@ -70,6 +72,8 @@
 **The Desktop Cat** is a free and open-source desktop pet created with the Unity engine. Your little pixelated friend will live right on your screen, requiring your care, food, and attention.
 
 This project was developed as an alternative to Screen Cat for Windows with the goal of creating a simple and cute virtual companion for your desktop.
+
+Follow development/updates: [Telegram](https://t.me/desktopcat)
 
 ## Screenshots
 <table>
